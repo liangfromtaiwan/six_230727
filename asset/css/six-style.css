@@ -95,9 +95,7 @@
     background: #1C1C1C;
 }
 
-.six-case__txt {
-    height: 215px;
-}
+
 
 .six-case__people {
     display: flex;
@@ -262,11 +260,12 @@
 }
 
 .six-start .btn a {
-    font-weight: bold;
+      font-weight: bold;
     display: flex;
     justify-content: space-between;
-    padding: 20px 40px 20px 40px;
+    padding: 20px 21px 20px 40px;
     text-align: center;
+    align-items: center;
     border: 1px solid #fff;
     border-radius: 16px;
 }
@@ -334,4 +333,6 @@ padding:16px
     .h1 {
         font-size: 32px;
     }
+    .col-4{
+        margin-bottom:60px;
 }
