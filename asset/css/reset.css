@@ -177,3 +177,13 @@ img {
     color: #fff;
     font-size: 14px;
 }
+
+
+@media(max-width:768px){
+  .col-4{
+  width:100%;
+  }
+   img{
+      width:100%;
+   }
+}
