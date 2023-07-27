@@ -285,15 +285,21 @@
 .footer .menu {
     font-size: 80px;
     font-weight: bold;
+    padding:16px;
 }
 
 .footer .menu li {
     margin-bottom: 24px;
 }
 
+.footer_{
+padding:16px
+}
+
+
 .copyright {
     display: flex;
-    padding: 30px 0;
+    padding: 30px 16px;
 }
 
 .copyright p {
